@@ -1,6 +1,6 @@
 <!-- GitHub Profile README - Sleek Two Column Layout (Professional Version) -->
 
-<div align="center" style="background: linear-gradient(135deg, #f5f7fa, #c3cfe2); padding: 20px; border-radius: 12px;">
+<div align="center" style="background: linear-gradient(135deg, #6a11cb, #2575fc); padding: 20px; border-radius: 12px; color: white;">
 
 <table>
 <tr>
