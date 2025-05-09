@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" alt="Coding Work From Home GIF" style="max-width: 100%; height: 200px; animation: fadeIn 2s ease-in-out;" />
+  <img src="Coding Work From Home GIF by Domme Space.gif" alt="Coding Work From Home GIF" style="max-width: 100%; height: 200px; animation: fadeIn 2s ease-in-out;" />
 </div>
 
 <br>
