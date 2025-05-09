@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img src="[[https://i.imgflip.com/65efzo.gif](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952samqwkec7ftegpbuoprequ8jd9kiz6oujpl6lnuq&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2c5bmptdjY5bTZuam96ejRuODZwcGlqY2gxc29wdmJicHFoN3JzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" height="150" alt="fun gif" />
+  <img src="Coding Work From Home GIF by Domme Space" height="150" alt="fun gif" />
 </div>
 
 <br>
