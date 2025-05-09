@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img src="Coding Work From Home GIF by Domme Space" height="150" alt="fun gif" />
+  <img src="Coding Work From Home GIF by Domme Space.gif" height="150" alt="fun gif" />
 </div>
 
 <br>
