@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋, I'm Kent J — a passionate developer from the Philippines</h2>
+<h2 align="center">Hi 👋, I'm Kent J — A Passionate Full-Stack Developer from the Philippines</h2>
 
-<p align="center">I specialize in full-stack web development and software engineering. With a focus on building scalable, secure, and user-friendly applications, I am dedicated to solving complex challenges and delivering high-quality solutions. Let’s create impactful technology together.</p>
+<p align="center">With years of experience in full-stack web development and software engineering, I specialize in building scalable, secure, and user-centric applications. My expertise spans from frontend development with modern frameworks to backend engineering with robust databases. I am always ready to take on complex challenges and build impactful solutions.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KentJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -9,8 +9,18 @@
 
 <br>
 
+### 🚀 **Frameworks & Tools**
+
+I’ve worked extensively with a variety of frameworks and tools, and I continue to expand my knowledge in cutting-edge technologies. Here are some of the frameworks and tools I use:
+
 <div align="center">
-  <img src="Coding Work From Home GIF by Domme Space.gif" alt="Coding Work From Home GIF" style="max-width: 100%; height: 200px; animation: fadeIn 2s ease-in-out;" />
+  <img src="https://media.giphy.com/media/l0HUx4dHGwHtpcKjc/giphy.gif" alt="React GIF" style="max-width: 100%; height: 150px; animation: fadeIn 2s ease-in-out;" />
+  <img width="12" />
+  <img src="https://media.giphy.com/media/Y5GQFz2c6xjCZgIMr5/giphy.gif" alt="Node.js GIF" style="max-width: 100%; height: 150px; animation: fadeIn 2s ease-in-out;" />
+  <img width="12" />
+  <img src="https://media.giphy.com/media/3ohzdYfv9CwBfLiEAY/giphy.gif" alt="Python GIF" style="max-width: 100%; height: 150px; animation: fadeIn 2.5s ease-in-out;" />
+  <img width="12" />
+  <img src="https://media.giphy.com/media/h2ErM8XhU2q8tssWjp/giphy.gif" alt="Angular GIF" style="max-width: 100%; height: 150px; animation: fadeIn 3s ease-in-out;" />
 </div>
 
 <br>
@@ -35,21 +45,21 @@
 
 ### 🚀 **Past Projects**
 
-Below are some of the projects I’ve worked on. Click on the project names to see more details or view the code.
+Below are some of the notable projects I’ve developed. They reflect my ability to take on end-to-end development and deliver quality software solutions.
 
-- [**Project 1**](#) - A full-stack e-commerce application built with React, Node.js, and MongoDB. Features include a shopping cart, user authentication, and order management.
-- [**Project 2**](#) - A personal finance tracking tool built with TypeScript and Express.js. Allows users to track expenses, set budgets, and view detailed financial reports.
-- [**Project 3**](#) - A real-time messaging app using React, Socket.io, and Firebase. Includes features like chat rooms, notifications, and real-time message syncing.
-- [**Project 4**](#) - A portfolio website I built using HTML, CSS, and JavaScript, showcasing my skills, experience, and past works.
-- [**Project 5**](#) - A task management app created using Python and Flask, with features like task prioritization, deadlines, and team collaboration.
+- [**Project 1**](#) - A full-stack e-commerce platform built with React, Node.js, and MongoDB. It features an intuitive shopping cart, user authentication, and order management system.
+- [**Project 2**](#) - A personal finance tracking tool created using TypeScript, Express.js, and PostgreSQL. Users can easily track their expenses, set budgets, and generate detailed financial reports.
+- [**Project 3**](#) - A real-time messaging app utilizing React, Socket.io, and Firebase. It includes dynamic chat rooms, notifications, and real-time message synchronization.
+- [**Project 4**](#) - A portfolio website I built using HTML, CSS, and JavaScript, showcasing my work and providing visitors with a look into my skill set and past achievements.
+- [**Project 5**](#) - A task management app developed with Python and Flask, featuring task prioritization, deadlines, and team collaboration tools.
 
-Feel free to explore these projects to get a sense of my work and expertise.
+Each of these projects demonstrates my capability to work across various tech stacks and deliver scalable, robust solutions.
 
 <br>
 
 ### 📬 **Let's Connect!**
 
-You can reach out to me through the following platforms:
+Feel free to reach out to me on any of these platforms:
 
 <div align="center">
   <a href="https://youtube.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" style="animation: fadeIn 2s ease-in-out;" /></a>
