@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="fun gif" />
+  <img src="[https://i.imgflip.com/65efzo.gif](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952samqwkec7ftegpbuoprequ8jd9kiz6oujpl6lnuq&ep=v1_gifs_search&rid=giphy.gif&ct=g)" height="150" alt="fun gif" />
 </div>
 
 <br>
@@ -44,6 +44,3 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</div>
