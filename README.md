@@ -1,31 +1,31 @@
-<!-- GitHub Profile README - Sleek Two Column Layout (Ultimate Pro Version) -->
+<!-- GitHub Profile README - Sleek Two Column Layout (Professional Version) -->
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #f5f7fa, #c3cfe2); padding: 20px; border-radius: 12px;">
 
 <table>
 <tr>
 <td width="30%" valign="top" align="center">
 
-<img src="https://scontent.fmnl13-3.fna.fbcdn.net/v/t1.6435-9/72640391_1329596170550904_5808270843465170944_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGT6YPfCf94XccQCF6kgVbDgYwTt2YhK2OBjBO3ZiErYwYbws8e2gqlWsUp6T2HylnfqwdvUrCuBt0_wXhWaJw-&_nc_ohc=vC-I_YlL34wQ7kNvwFyIcYD&_nc_oc=AdlT0cSFFiusO_cMccPmqZ6kGRQmzuRstLPTHWt7L4EmhVRC4MTrs6P6mDjeu3TrywlOUv6hmxONAQoHWbYKg3He&_nc_zt=23&_nc_ht=scontent.fmnl13-3.fna&_nc_gid=ECSJl4Y83Lw20sg089fI3Q&oh=00_AfIJ41NhD6A1Cl-bpcp37YKP7U9NoLmU48etKTvjrR8cLw&oe=6845DCB6" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;"><br><br>
+<img src="https://scontent.fmnl13-3.fna.fbcdn.net/v/t1.6435-9/72640391_1329596170550904_5808270843465170944_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGT6YPfCf94XccQCF6kgVbDgYwTt2YhK2OBjBO3ZiErYwYbws8e2gqlWsUp6T2HylnfqwdvUrCuBt0_wXhWaJw-&_nc_ohc=vC-I_YlL34wQ7kNvwFyIcYD&_nc_oc=AdlT0cSFFiusO_cMccPmqZ6kGRQmzuRstLPTHWt7L4EmhVRC4MTrs6P6mDjeu3TrywlOUv6hmxONAQoHWbYKg3He&_nc_zt=23&_nc_ht=scontent.fmnl13-3.fna&_nc_gid=ECSJl4Y83Lw20sg089fI3Q&oh=00_AfIJ41NhD6A1Cl-bpcp37YKP7U9NoLmU48etKTvjrR8cLw&oe=6845DCB6" alt="Kent Jay Otadoy" style="border-radius: 50%; width: 150px; height: 150px;"><br><br>
 
-### **John Doe**
+### **Kent Jay Otadoy**
 
-🌍 San Francisco, CA  
-💼 Full Stack Developer  
-📧 john.doe@example.com  
-🔗 [johndoe.dev](https://johndoe.dev)
+🌍 Philippines  
+💼 Computer Science | Software Engineer  
+📧 kent.otadoy@example.com  
+🔗 [kentjay.dev](https://kentjay.dev)
 
 <br>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=johndoe&label=Visitors&color=0e75b6&style=flat)
+![Visitor Badge](https://komarev.com/ghpvc/?username=kentjayotadoy&label=Visitors&color=0e75b6&style=flat)
 
 <br><br>
 
-<a href="https://linkedin.com/in/johndoe">
+<a href="https://linkedin.com/in/kentjayotadoy">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br>
-<a href="https://johndoe.dev">
+<a href="https://kentjay.dev">
 <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white"/></a><br>
-<a href="https://dev.to/johndoe">
+<a href="https://dev.to/kentjayotadoy">
 <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
 </td>
@@ -34,8 +34,8 @@
 
 ## 👋 About Me
 
-I’m a passionate **Full Stack Developer** with 5+ years of experience building scalable web and mobile applications. I love solving real-world problems through clean and maintainable code.  
-I work primarily with **Python**, **Flutter**, and **modern cloud tools**.
+I’m **Kent Jay Otadoy**, a dedicated **Computer Science graduate** and **Software Engineer** passionate about building scalable and elegant solutions for real-world problems.  
+I specialize in **Python**, **Flutter**, and **modern cloud technologies**, crafting robust web and mobile applications with a focus on clean and maintainable code.
 
 ---
 
@@ -61,11 +61,11 @@ I work primarily with **Python**, **Flutter**, and **modern cloud tools**.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- **Smart Attendance System** — IoT-based RFID & Biometric system with Flutter app  
-- **Inventory Manager** — A SolidJS + PostgreSQL web app to manage hardware inventory  
-- **Taskify** — Cross-platform task management app built with Flutter & Firebase
+- **Smart Attendance System** — IoT-based RFID & Biometric system with real-time Flutter app notifications  
+- **Hardware Inventory Manager** — SolidJS + PostgreSQL solution for managing hardware assets  
+- **Taskify** — A cross-platform task management app built with Flutter & Firebase
 
 ---
 
@@ -73,9 +73,9 @@ I work primarily with **Python**, **Flutter**, and **modern cloud tools**.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=johndoe&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentjayotadoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)<br>  
+![GitHub Streak](https://streak-stats.demolab.com?user=kentjayotadoy&theme=tokyonight&hide_border=true)<br>  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kentjayotadoy&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -85,15 +85,15 @@ I work primarily with **Python**, **Flutter**, and **modern cloud tools**.
 
 <!-- Wakatime stats — replace with your username -->
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johndoe&layout=compact&theme=tokyonight&hide_border=true)](https://wakatime.com/@johndoe)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kentjayotadoy&layout=compact&theme=tokyonight&hide_border=true)](https://wakatime.com/@kentjayotadoy)
 
 ---
 
 ## 📫 Let’s Connect
 
-- **LinkedIn**: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)  
-- **Portfolio**: [johndoe.dev](https://johndoe.dev)  
-- **Blog**: [dev.to/johndoe](https://dev.to/johndoe)
+- **LinkedIn**: [linkedin.com/in/kentjayotadoy](https://linkedin.com/in/kentjayotadoy)  
+- **Portfolio**: [kentjay.dev](https://kentjay.dev)  
+- **Blog**: [dev.to/kentjayotadoy](https://dev.to/kentjayotadoy)
 
 </td>
 </tr>
