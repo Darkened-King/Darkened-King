@@ -14,7 +14,7 @@
 I’ve worked extensively with a variety of frameworks and tools, and I continue to expand my knowledge in cutting-edge technologies. Here are some of the frameworks and tools I use:
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HUx4dHGwHtpcKjc/giphy.gif" alt="React GIF" style="max-width: 100%; height: 150px; animation: fadeIn 2s ease-in-out;" />
+  <img src="Data Coding GIF by DataCamp.gif" alt="React GIF" style="max-width: 100%; height: 150px; animation: fadeIn 2s ease-in-out;" />
   <img width="12" />
   <img src="https://media.giphy.com/media/Y5GQFz2c6xjCZgIMr5/giphy.gif" alt="Node.js GIF" style="max-width: 100%; height: 150px; animation: fadeIn 2s ease-in-out;" />
   <img width="12" />
