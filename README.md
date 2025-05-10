@@ -16,11 +16,11 @@ I’ve worked extensively with a variety of frameworks and tools, and I continue
 <div align="center">
   <img src="Data Coding GIF by DataCamp.gif" alt="React GIF" style="max-width: 100%; height: 150px; animation: fadeIn 2s ease-in-out;" />
   <img width="12" />
-  <img src="https://media.giphy.com/media/Y5GQFz2c6xjCZgIMr5/giphy.gif" alt="Node.js GIF" style="max-width: 100%; height: 150px; animation: fadeIn 2s ease-in-out;" />
+  <img src="bugs-bunny-new-1.gif" alt="Node.js GIF" style="max-width: 100%; height: 150px; animation: fadeIn 2s ease-in-out;" />
   <img width="12" />
-  <img src="https://media.giphy.com/media/3ohzdYfv9CwBfLiEAY/giphy.gif" alt="Python GIF" style="max-width: 100%; height: 150px; animation: fadeIn 2.5s ease-in-out;" />
+  <img src="flutter_logo_leg.gif" alt="Python GIF" style="max-width: 100%; height: 150px; animation: fadeIn 2.5s ease-in-out;" />
   <img width="12" />
-  <img src="https://media.giphy.com/media/h2ErM8XhU2q8tssWjp/giphy.gif" alt="Angular GIF" style="max-width: 100%; height: 150px; animation: fadeIn 3s ease-in-out;" />
+  <img src="giphy.gif" alt="Angular GIF" style="max-width: 100%; height: 150px; animation: fadeIn 3s ease-in-out;" />
 </div>
 
 <br>
