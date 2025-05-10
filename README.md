@@ -1,25 +1,11 @@
 <h2 align="center">Hi 👋, I'm Kent J — A Passionate Full-Stack Developer from the Philippines</h2>
 
-<p align="center">With over [X] years of experience in building robust, scalable, and secure web applications, I specialize in full-stack development, taking projects from concept to deployment. My expertise ranges from frontend frameworks like React and Angular, to backend technologies such as Node.js, Python, and Express. I thrive in challenging environments and am constantly learning to keep up with the ever-evolving landscape of software development.</p>
+<p align="center">With over 3 years of experience in building robust, scalable, and secure web applications, I specialize in full-stack development, taking projects from concept to deployment. My expertise ranges from frontend frameworks like React and Angular, to backend technologies such as Node.js, Python, and Express. I thrive in challenging environments and am constantly learning to keep up with the ever-evolving landscape of software development.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KentJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kentj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-<br>
-
-### 🛠️ **Technologies & Tools**
-- **Frontend:** React, Angular, Vue.js, Tailwind CSS, Material UI
-- **Backend:** Node.js, Express, Python, Flask, Django
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **Version Control:** Git, GitHub, GitLab
-- **CI/CD:** Jenkins, Docker, Kubernetes
-- **Cloud Services:** AWS, Firebase, Heroku
-- **Testing:** Jest, Mocha, Cypress
-- **Methodologies:** Agile, Scrum, Test-Driven Development (TDD)
-
-<br>
 
 ### 🚀 **Frameworks & Tools**
 
@@ -34,6 +20,20 @@ I’ve worked extensively with a variety of frameworks and tools, and I continue
   <img width="12" />
   <img src="giphy.gif" alt="Angular GIF" style="max-width: 100%; height: 150px; animation: fadeIn 3s ease-in-out;" />
 </div>
+
+<br>
+
+<br>
+
+### 🛠️ **Technologies & Tools**
+- **Frontend:** React, Angular, Vue.js, Tailwind CSS, Material UI
+- **Backend:** Node.js, Express, Python, Flask, Django
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Version Control:** Git, GitHub, GitLab
+- **CI/CD:** Jenkins, Docker, Kubernetes
+- **Cloud Services:** AWS, Firebase, Heroku
+- **Testing:** Jest, Mocha, Cypress
+- **Methodologies:** Agile, Scrum, Test-Driven Development (TDD)
 
 <br>
 
