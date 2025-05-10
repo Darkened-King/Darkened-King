@@ -70,12 +70,3 @@ Feel free to reach out to me on any of these platforms:
   <a href="https://linkedin.com/in/kentj" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" style="animation: fadeIn 2s ease-in-out;" /></a>
 </div>
 
-<br>
-
-### 🎨 **Custom Animations**
-
-```css
-@keyframes fadeIn {
-  0% { opacity: 0; transform: translateY(10px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
